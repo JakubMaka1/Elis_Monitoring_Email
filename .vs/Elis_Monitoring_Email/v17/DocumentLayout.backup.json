@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|c:\\users\\jakub.maka\\source\\repos\\elis_monitoring_email\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|solutionrelative:service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|c:\\users\\jakub.maka\\source\\repos\\elis_monitoring_email\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|c:\\users\\jakub.maka\\source\\repos\\elis_monitoring_email\\smtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|solutionrelative:smtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|c:\\users\\jakub.maka\\source\\repos\\elis_monitoring_email\\programruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|solutionrelative:programruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|c:\\users\\jakub.maka\\source\\repos\\elis_monitoring_email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Elis_Monitoring_Email||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|c:\\users\\jakub.maka\\source\\repos\\elis_monitoring_email\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|solutionrelative:projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21038168-6E29-4825-B699-97910590E137}|Elis_Monitoring_Email.csproj|c:\\users\\jakub.maka\\source\\repos\\elis_monitoring_email\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\Service1.cs",
+              "RelativeDocumentMoniker": "Service1.cs",
+              "ToolTip": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\Service1.cs",
+              "RelativeToolTip": "Service1.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAnwBYBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:46:29.632Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAASwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:47:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Elis_Monitoring_Email",
+              "DocumentMoniker": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\Elis_Monitoring_Email.csproj",
+              "RelativeDocumentMoniker": "Elis_Monitoring_Email.csproj",
+              "ToolTip": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\Elis_Monitoring_Email.csproj",
+              "RelativeToolTip": "Elis_Monitoring_Email.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-11T07:28:18.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\ProjectInstaller.cs",
+              "RelativeToolTip": "ProjectInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:23:24.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramRuntime.cs",
+              "DocumentMoniker": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\ProgramRuntime.cs",
+              "RelativeDocumentMoniker": "ProgramRuntime.cs",
+              "ToolTip": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\ProgramRuntime.cs",
+              "RelativeToolTip": "ProgramRuntime.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:47:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SMTP.cs",
+              "DocumentMoniker": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\SMTP.cs",
+              "RelativeDocumentMoniker": "SMTP.cs",
+              "ToolTip": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\SMTP.cs",
+              "RelativeToolTip": "SMTP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:47:08.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jakub.maka\\source\\repos\\Elis_Monitoring_Email\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:46:48.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
